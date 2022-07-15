@@ -8,5 +8,5 @@
 import React from "react"
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <div>Hey everybody.Welcome to my first frontend pipeline.Thanks---!</div>
 }
